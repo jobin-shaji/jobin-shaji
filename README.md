@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI and full-stack development projects.  <br>🤝 I’m looking to collaborate on exciting AI and web development projects.  <br>🧠 I’m looking for help with exploring new AI frameworks and full-stack best practices.  <br>🌱 I’m currently learning advanced AI models and full-stack development tools.  <br>💬 Ask me about anything related to AI, web development, and tech trends.  <br>⚡ Fun fact: I love experimenting with new tech stacks and finding creative solutions to coding challenges.  <br>
+🔭 I’m currently working on full-stack development projects with AI integration.  <br>🤝 I’m looking to collaborate on exciting AI and web development projects.  <br>🧠 I’m looking for help with exploring new AI frameworks and full-stack best practices.  <br>🌱 I’m currently learning advanced AI models and full-stack development tools.  <br>💬 Ask me about anything related to AI, web development, and tech trends.  <br>⚡ Fun fact: I love experimenting with new tech stacks and finding creative solutions to coding challenges.  <br>
 
 
 ## 🌐 Socials:

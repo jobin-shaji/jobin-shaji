@@ -13,6 +13,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=jobin-shaji&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jobin-shaji&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+# 🦊 GitLab Stats:
+![](https://gitlab-readme-stats.vercel.app/api?username=jobin-shaji&theme=dracula&hide_border=true)<br/>
+![](https://gitlab-readme-stats.vercel.app/api/top-langs/?username=jobin-shaji&theme=dracula&hide_border=true&layout=compact)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jobin-shaji&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
@@ -21,5 +25,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jobin-shaji&icon=0&color=11)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
